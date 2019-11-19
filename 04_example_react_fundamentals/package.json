@@ -1,0 +1,11 @@
+{
+  "name": "react_fundamental",
+  "version": "1.0.0",
+  "description": "seungchan study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mokdonjr@gmail.com",
+  "license": "ISC"
+}
